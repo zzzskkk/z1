@@ -1,0 +1,4 @@
+close-belt
+open-belt
+smoke
+fire
